@@ -1,1 +1,2 @@
 # Following-ball
+Simple project using opencv. In class image-countour image user can by slider change HSV values to make a mask that will cover the object that needs to be tracked. The countours and center of them are updated in real time as user adjust the sliders. Later user can use class movie-tracking where as input there are HSV values which were calculated earlier and using this values video is processed frame by frame to put on countouts and center marker and generate new video with tracking.
